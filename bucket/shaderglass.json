@@ -1,12 +1,12 @@
 {
-    "version": "0.7",
+    "version": "0.6",
     "description": "Creates an overlay for running GPU shaders on top of the Windows desktop.",
     "homepage": "https://github.com/mausimus/ShaderGlass",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mausimus/ShaderGlass/releases/download/v0.7/ShaderGlass-0.7-win-x64.zip",
-            "hash": "738c3772283a450e1f2ccf5440ab96cc159bf8ee5e3d51ba4d2a9aeaa602c6fc"
+            "url": "https://github.com/mausimus/ShaderGlass/releases/download/v0.6/ShaderGlass-0.6-win-x64.zip",
+            "hash": "f3df02141ecf6f964d4ff7611c9d61758e565d4154d0fb65328bda889149ba0c"
         }
     },
     "bin": "ShaderGlass.exe",
