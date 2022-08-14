@@ -1,16 +1,16 @@
 {
-    "version": "4.0.0",
+    "version": "4.2.0",
     "description": "A simple and easy-to-use library to enjoy videogames programming (this version is for the Microsoft Visual C++ compiler)",
     "homepage": "https://www.raylib.com/",
     "license": "Zlib",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/raysan5/raylib/releases/download/4.0.0/raylib-4.0.0_win64_msvc16.zip",
-            "hash": "abd6963c3227fa46a22e2743f9a72e176ce19fb46974a702cc16ec96f4dee0e4"
+            "url": "https://github.com/raysan5/raylib/releases/download/4.2.0/raylib-4.2.0_win64_msvc16.zip",
+            "hash": "f1d936f7a10642a5f44eabc2eeeb2bf1faa9ce115f5a1db0cfa1e9f28156deec"
         },
         "32bit": {
-            "url": "https://github.com/raysan5/raylib/releases/download/4.0.0/raylib-4.0.0_win32_msvc16.zip",
-            "hash": "0c92fdeb3d9c9ad19de6212e2dc1080e9d4ad59e4427944a27e77639b50c0cfb"
+            "url": "https://github.com/raysan5/raylib/releases/download/4.2.0/raylib-4.2.0_win32_msvc16.zip",
+            "hash": "0cdf8a41150cbc851ff6b7dd8719141135097c8018ac52eb5050bcfd90077868"
         }
     },
     "post_install": [
