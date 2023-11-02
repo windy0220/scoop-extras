@@ -1,9 +1,9 @@
 {
-    "version": "2023-10-28_15-22",
+    "version": "2023-11-02_17-30",
     "description": "x64/x32 debugger",
     "homepage": "https://x64dbg.com/",
     "license": "GPL-3.0-only",
-    "url": "https://downloads.sourceforge.net/project/x64dbg/snapshots/snapshot_2023-10-28_15-22.zip",
+    "url": "https://downloads.sourceforge.net/project/x64dbg/snapshots/snapshot_2023-11-02_17-30.zip",
     "hash": "sha1:974f2d0200bd1bba5e42b7ad2b37e0afe7454c33",
     "pre_install": [
         "'release\\x96dbg.ini', 'release\\x32\\x32dbg.ini', 'release\\x64\\x64dbg.ini' | ForEach-Object {",
