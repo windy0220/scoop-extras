@@ -1,5 +1,5 @@
 {
-    "version": "6.0.24",
+    "version": "6.0.25",
     "description": "Microsoft .NET Core Desktop Runtime LTS",
     "homepage": "https://dotnet.microsoft.com/download/dotnet-core",
     "license": {
@@ -9,12 +9,12 @@
     "notes": "You can now remove this installer with 'scoop uninstall windowsdesktop-runtime-lts'",
     "architecture": {
         "64bit": {
-            "url": "https://dotnetcli.azureedge.net/dotnet/WindowsDesktop/6.0.24/windowsdesktop-runtime-6.0.24-win-x64.exe",
-            "hash": "05c354c1e8d06ca9db84041db3f10ec732872179412580235f8a646d32b7959c"
+            "url": "https://dotnetcli.azureedge.net/dotnet/WindowsDesktop/6.0.25/windowsdesktop-runtime-6.0.25-win-x64.exe",
+            "hash": "sha512:fdf1ae329d696bf280f3fee7c989bfc4678c640608e3175f7c26b3018ac58dc22d8f1618201cc209a8f28940fc94dcb144d98c8c91b072916f8f531f6aabc28f"
         },
         "32bit": {
-            "url": "https://dotnetcli.azureedge.net/dotnet/WindowsDesktop/6.0.24/windowsdesktop-runtime-6.0.24-win-x86.exe",
-            "hash": "5d74cf57e015741041be1a455c95d838e85a6271ef4ae7cbfc2a6f116e9e314c"
+            "url": "https://dotnetcli.azureedge.net/dotnet/WindowsDesktop/6.0.25/windowsdesktop-runtime-6.0.25-win-x86.exe",
+            "hash": "sha512:fb83dd96a7ea4654f7bbd8d2e511df50dfc4633346b78ec317419bc9536b2d13cd71037fb80bdfefc87162fbb91fc9fd978751511877ace1a8788f2bbbaa82f7"
         }
     },
     "pre_install": "if (!(is_admin)) { error 'Admin privileges are required.'; break }",
